@@ -24,6 +24,7 @@ t	tôi
 cùg	cùng
 pn	bạn
 pjt	biết
+bít	biết
 thjk	thích
 ktra	kiểm tra
 nek	nè
@@ -48,6 +49,7 @@ sviên	sinh viên
 đág	đáng
 nvay	như vậy
 nv	như vậy
+nhìu	nhiều
 nhjeu	nhiều
 xg	xuống
 zồi	rồi
@@ -125,6 +127,7 @@ nắg	nắng
 tíh	tính
 khoảg	khoảng
 thík	thích
+thít	thích
 ngđo	người đó
 ngkhác	người khác
 thẳg	thẳng
@@ -137,6 +140,7 @@ bóg	bóng
 dky	đăng ký
 dòg	dòng
 uốg	uống
+siu	siêu
 tyêu	tình yêu
 xợ	sợ
 snvv	sinh nhật vui vẻ
@@ -418,6 +422,7 @@ gê	ghê
 góm	gớm
 mỏg	mỏng
 sóp	shop
+lứm	lắm
 lămz	lắm
 lém	lắm
 khók	khóc

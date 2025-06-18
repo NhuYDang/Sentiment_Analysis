@@ -8,7 +8,6 @@ chừng
 nào
 bèn
 nè
-như
 bao
 nhiêu
 cũng
@@ -26,6 +25,7 @@ tôi
 đó
 ạ
 à
+á
 và
 của
 ơi
@@ -67,6 +67,7 @@ người
 mày
 tao
 chú
+cậu
 ta
 ông
 chăng
@@ -111,6 +112,7 @@ tớ
 vâng
 dù
 về
+kia
 kìa
 âu
 ắt
