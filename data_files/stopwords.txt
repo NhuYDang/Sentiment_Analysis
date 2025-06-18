@@ -8,6 +8,7 @@ chừng
 nào
 bèn
 nè
+như
 bao
 nhiêu
 cũng
@@ -108,7 +109,6 @@ hay
 tuy
 tớ
 vâng
-như
 dù
 về
 kìa
